@@ -1,0 +1,7 @@
+h1 {font-family:Helvetica; color:#fe5f55;  font-size: 46px;}
+h2 {font-family: 'DM Serif Display', serif; color:#7a9e9f;  font-size: 27px;}
+p {color:#4f6367; font-size: 15px; font-family: 'Josefin Slab', serif;}
+hr {border: 1.3px solid#5b9aa0;}
+#name {color:#7a9e9f; font-family: 'Josefin Slab', serif; font-size: 26px; line-height: .4;}
+a {color:#4f6367; font-size: 15px; font-family: 'Josefin Slab', serif;}
+button {font-family: 'DM Serif Display', serif; color:#7a9e9f; font-size: 27px;}
